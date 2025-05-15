@@ -2,4 +2,4 @@
 
 Repositório criado dia 15/05/2025.
 
-Calculadora em Java utilizando Swing e JavaFX.
+Calculadora em Java utilizando Swing.
